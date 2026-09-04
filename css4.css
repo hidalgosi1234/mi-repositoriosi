@@ -1,0 +1,16 @@
+.rojosi {
+color: rgb(184, 0, 0);
+
+
+
+}
+
+body:has(.rojosi:active) {
+    background-color: red;
+}
+body:has(.verdesi:active) {
+    background-color: rgb(22, 189, 77);
+}
+body:has(.azulsi:active) {
+    background-color: rgba(20, 9, 168, 0.575);
+}
