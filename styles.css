@@ -1,0 +1,34 @@
+body {
+background-image: -moz-radial-gradient(circle, rgba(0,0,0,0) 30%, rgba(0,0,0,0.8) 100%);
+background-image: url('https://f4.bcbits.com/img/a2410555507_10.jpg');
+
+
+}
+
+.benefits {
+
+font-family: serif;
+color: rgb(0, 0, 85);
+text-shadow: 5px  5px 5px rgba(0, 0, 68, 0.404);;
+
+text-decoration-color: aliceblue;
+
+text-rendering: geometricPrecision;
+}
+
+.hero {
+
+
+    font-family: serif;
+    color: rgb(235, 235, 255);
+    text-shadow: 5px  5px 5px rgb(0, 0, 68);;
+    
+    text-decoration-color: aliceblue;
+    
+    text-rendering: geometricPrecision;
+
+
+
+
+
+}
